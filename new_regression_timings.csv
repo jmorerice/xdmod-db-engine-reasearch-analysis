@@ -1,4 +1,4 @@
-Test Name,Realm,Group By,Statistic,Data Set Type,Aggregation Unit,MyISAM Total Time,MyISAM Start Transfer Time,InnoDB Total Time,InnoDB Start Transfer Time,Percentage Difference
+Test Name,Realm,Group By,Statistic,Data Set Type,Aggregation Unit,MyISAM Total Time,MyISAM Start Transfer Time,InnoDB Total Time,InnoDB Start Transfer Time,Percent Change
 Cloud/configuration/cloud_avg_cores_reserved/aggregate-Day-cd,Cloud,configuration,cloud_avg_cores_reserved,aggregate,Day,0.059955,0.05995,0.056255,0.056252,-6.171295138020185
 Cloud/configuration/cloud_avg_cores_reserved/aggregate-Day-cs,Cloud,configuration,cloud_avg_cores_reserved,aggregate,Day,0.065416,0.065412,0.061219,0.061216,-6.4158615629203855
 Cloud/configuration/cloud_avg_cores_reserved/aggregate-Day-pi,Cloud,configuration,cloud_avg_cores_reserved,aggregate,Day,0.072476,0.072471,0.06599,0.065987,-8.949169380208629
